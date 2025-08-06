@@ -1,2 +1,2 @@
-# Econometr-a_aplicada_con_Python_pregrado
+# Econometria aplicada con Python pregrado
 Curso
