@@ -1,0 +1,2 @@
+# Econometr-a_aplicada_con_Python_pregrado
+Curso
